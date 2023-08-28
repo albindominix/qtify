@@ -1,0 +1,27 @@
+.wrapper{
+width: 159px;
+position: relative;
+border-radius: 10px;
+left: 10px;
+overflow: hidden;
+}
+.image{
+    display: block;
+    width: 100%;
+    height: 170px;
+}
+.lower{
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+}
+
+.followers{
+    display: inline-flex;
+    font-size: small;
+padding: 4px 8px;
+align-items: flex-start;
+gap: 1px;
+border-radius: 10px;
+background: #121212;
+}

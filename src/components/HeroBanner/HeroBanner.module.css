@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 270px;
+  gap: 10px;
+}
+.textWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.text {
+    text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

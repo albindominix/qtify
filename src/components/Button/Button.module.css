@@ -1,0 +1,14 @@
+.button {
+  background-color: var(--color-black);
+  color: var(--color-primary);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.25px;
+  padding: 10px 16px;
+  border-radius: 12px;
+}
