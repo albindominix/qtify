@@ -13,7 +13,7 @@ function App() {
       <HeroBanner />
       <TopAlbums />
       <NewAlbums />
-      {/* <Accordion/> */}
+      <Accordion/>
     </>
   );
 }
